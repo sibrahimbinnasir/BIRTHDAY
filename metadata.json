@@ -1,0 +1,6 @@
+{
+  "name": "Elysian - A Romantic 3D Gift Experience",
+  "description": "A cinematic, immersive 3D personal gift website with personalized slides, slow-reading auto-scroll, memories gallery, custom letter editor, and private editing dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
